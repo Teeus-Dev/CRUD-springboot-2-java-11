@@ -55,10 +55,10 @@
 			<scope>runtime</scope>
 		</dependency>
 		<dependency>
-    			<groupId>io.swagger</groupId>
-   			<artifactId>swagger-core</artifactId>
-   			<version>1.6.2</version>
-		</dependency>
+           		<groupId>org.springdoc</groupId>
+            		<artifactId>springdoc-openapi-ui</artifactId>
+            		<version>1.6.4</version>
+        	</dependency>
 	</dependencies>
 
 	<build>
